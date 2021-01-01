@@ -8,7 +8,7 @@
 <br>
 
 ## Sample Maps
-https://ejw-data.github.io/D3-challenge/
+https://ejw-data.github.io/D3-scatterplot
 <br>
 <br>
 ## Noteable Revisions
