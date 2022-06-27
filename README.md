@@ -17,7 +17,7 @@ This repo is a personal project of a D3 javascript scatter plot that represents 
 
 ## Github Pages  
 
-https://ejw-data.github.io/D3-challenge/  
+https://ejw-data.github.io/d3-scatterplot
 
 <br>
 
