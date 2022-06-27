@@ -41,4 +41,7 @@ I believe the original dataset came from Kaggle and was one of their Quality of 
 ## Example
 
 ![D3 Scatterplot Graphic with Multiple Axis](./assets/images/scatter-plot-d3.png)
+
 <br>
+
+
