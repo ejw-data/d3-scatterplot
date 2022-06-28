@@ -38,6 +38,8 @@ I believe the original dataset came from Kaggle and was one of their Quality of 
 1. Using a virtual server like the VSCode extention LiveServer
 1. Run `index.html`  
 
+<br>
+
 ## Example
 
 ![D3 Scatterplot Graphic with Multiple Axis](./assets/images/d3-scatter-example.png)
